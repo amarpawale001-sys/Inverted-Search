@@ -1,0 +1,13 @@
+#0;am;1;f1.txt;1;#
+#0;Amar;1;f1.txt;1;#
+#0;are;1;f2.txt;1;#
+#1;Belagavi;1;f1.txt;1;#
+#1;bye;1;f4.txt;1;#
+#5;from;1;f1.txt;1;#
+#6;good;1;f4.txt;1;#
+#7;hi;1;f2.txt;1;#
+#7;hello;2;f2.txt;1;f4.txt;1;#
+#7;hii;2;f2.txt;1;f4.txt;1;#
+#7;how;1;f2.txt;1;#
+#8;I;1;f1.txt;1;#
+#24;you;1;f2.txt;1;#
